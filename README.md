@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaveedSarwarGanai
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python with DS
-- 💞️ I’m looking to collaborate on python language based programs
+- 👀 I have done bachelors in computer engineering. 
+- 🌱 I’m a software Developer. 
+- 💞️ I’m looking to collaborate on Java language based programs
 - 📫 navi.naveed121@gmail.com
 
 <!---
